@@ -1,6 +1,39 @@
 {
    "CO":[
       {
+         
+         "title":"Women White Top",
+         "productImage":"https://images.unsplash.com/photo-1506795660198-e95c77602129?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjB0b3B8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
+         "price":"19.99",
+         "category":"Clothes",
+         "product-cta-text":"Shop Now"
+      },
+       {
+         
+         "title":"Mens Khaki Pants",
+         "productImage":"https://images.unsplash.com/photo-1580764194528-6a4158e3dab0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8a2hha2klMjBwYW50c3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
+         "price":"29.99",
+         "category":"Clothes",
+         "product-cta-text":"Shop Now"
+      },
+      {
+         
+         "title":"Nike running shoes",
+         "productImage":"https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGxlYnJvbiUyMG5pa2V8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
+         "price":"89.99",
+         "category":"Sports Footwear",
+         "product-cta-text":"Shop Now"
+      },
+      {
      
          "title":"MEN'S BETTER THAN NAKED ,JACKET",
          "productImage":"http://images.thenorthface.com/is/image/TheNorthFace/236x204_CLR/mens-better-than-naked-jacket-AVMH_LC9_hero.png",
@@ -44,28 +77,8 @@
          "category":"Sports",
          "product-cta-text":"Shop Now"
       },
-       {
-         
-         "title":"Mens Khaki Pants",
-         "productImage":"https://images.unsplash.com/photo-1580764194528-6a4158e3dab0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8a2hha2klMjBwYW50c3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-         "header-top-right-text":"Shop All",
-         "header-top-left-text":"Equipment",
-         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
-         "price":"29.99",
-         "category":"Clothes",
-         "product-cta-text":"Shop Now"
-      },
-      {
-         
-         "title":"Women White Top",
-         "productImage":"https://images.unsplash.com/photo-1506795660198-e95c77602129?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjB0b3B8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-         "header-top-right-text":"Shop All",
-         "header-top-left-text":"Equipment",
-         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
-         "price":"19.99",
-         "category":"Clothes",
-         "product-cta-text":"Shop Now"
-      },
+      
+      
       {
          
          "title":"Microwave",
@@ -88,17 +101,7 @@
          "category":"Appliances",
          "product-cta-text":"Shop Now"
       },
-      {
-         
-         "title":"Nike running shoes",
-         "productImage":"https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGxlYnJvbiUyMG5pa2V8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-         "header-top-right-text":"Shop All",
-         "header-top-left-text":"Equipment",
-         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
-         "price":"89.99",
-         "category":"Sports Footwear",
-         "product-cta-text":"Shop Now"
-      },
+      
       {
          
          "title":"Your Heart is the Sea",
