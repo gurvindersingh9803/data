@@ -11,74 +11,104 @@
          "product-cta-text":"Shop Now"
       },
        {
-          "id":"2",
          "title":"Mens Khaki Pants",
          "productImage":"https://images.unsplash.com/photo-1580764194528-6a4158e3dab0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8a2hha2klMjBwYW50c3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-         "price":"29.99",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
+          "price":"29.99",
          "category":"Clothes",
+          "product-cta-text":"Shop Now"
       },
       {
-         "id":"3",
          "title":"Nike running shoes",
          "productImage":"https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGxlYnJvbiUyMG5pa2V8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Men's",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/men-39-s-better-than-naked-8482-jacket.html",
          "price":"89.99",
          "category":"Sports Footwear",
+         "product-cta-text":"Shop Now"
       },
       {
-         "id":"4",
          "title":"MEN'S BETTER THAN NAKED ,JACKET",
          "productImage":"https://images.unsplash.com/photo-1549738712-da3cb334e1d2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTF8fGphY2tldHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Men's",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/men-39-s-better-than-naked-8482-jacket.html",
          "price":"300",
          "category":"Clothes",
+         "product-cta-text":"Shop Now"
       },
       {
-         "id":"5",
          "title":"WOMEN'S BETTER THAN NAKED, JACKET",
          "productImage":"https://images.unsplash.com/photo-1544022613-e87ca75a784a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8amFja2V0fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Women's",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/women-39-s-better-than-naked-8482-jacket.html",
          "price":"20.99",
          "category":"Clothes",
+         "product-cta-text":"Shop Now"
       },
       {
-         "id":"6",
          "title":"WOMEN'S SINGLE-TRACK SHOE",
          "productImage":"https://images.unsplash.com/photo-1604867896102-9993f537f22c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fHNob2V8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Running Shoes",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/womens-single-track.html",
          "price":"99.99",
          "category":"Footwear Sports",
+         "product-cta-text":"Shop Now"
       },
       {
-         "id":"7",
          "title":"Enduro Boa, Hydration Pack",
          "productImage":"https://images.unsplash.com/photo-1536353479245-bf1902dd0d53?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTd8fGh5ZHJhdGlvbiUyMHBhY2t8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
          "price":"39.99",
          "category":"Sports",
+         "product-cta-text":"Shop Now"
       },
       {
-         "id":"8",
          "title":"Microwave",
          "productImage":"https://images.unsplash.com/photo-1557944935-506efb8ba41d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzB8fG1pY3Jvd2F2ZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
          "price":"49.99",
          "category":"Appliances",
+          "product-cta-text":"Shop Now"
       },
       {
-         "id":"9",
          "title":"Microwave",
          "productImage":"https://images.unsplash.com/photo-1557944935-506efb8ba41d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzB8fG1pY3Jvd2F2ZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
          "price":"49.99",
          "category":"Appliances",
+         "product-cta-text":"Shop Now"
       },
       {
-         "id":"10",
          "title":"Your Heart is the Sea",
          "productImage":"https://images.unsplash.com/photo-1555252586-d77e8c828e41?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8bm92ZWx8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
          "price":"19.99",
          "category":"Books",
+         "product-cta-text":"Shop Now"
       },
       {
-         "id":"11",
          "title":"Kisaan Mazdoor Ekta Zindabaad by Jatt Mehkma",
          "productImage":"https://images.unsplash.com/photo-1547760916-b23a6eb6014d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fG5vdmVsfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
          "price":"49.99",
          "category":"Books",
+         "product-cta-text":"Shop Now"
       }
    ],
    "WI":[
