@@ -1,91 +1,68 @@
 {
    "CO":[
       {
-         
          "title":"Women White Top",
          "productImage":"https://images.unsplash.com/photo-1506795660198-e95c77602129?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjB0b3B8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
          "price":"19.99",
          "category":"Clothes",
       },
        {
-         
          "title":"Mens Khaki Pants",
          "productImage":"https://images.unsplash.com/photo-1580764194528-6a4158e3dab0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8a2hha2klMjBwYW50c3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
          "price":"29.99",
          "category":"Clothes",
       },
       {
-         
          "title":"Nike running shoes",
          "productImage":"https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGxlYnJvbiUyMG5pa2V8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-         
          "price":"89.99",
          "category":"Sports Footwear",
       },
       {
-     
          "title":"MEN'S BETTER THAN NAKED ,JACKET",
          "productImage":"https://images.unsplash.com/photo-1549738712-da3cb334e1d2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTF8fGphY2tldHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-        
          "price":"300",
          "category":"Clothes",
       },
       {
-         
          "title":"WOMEN'S BETTER THAN NAKED, JACKET",
          "productImage":"https://images.unsplash.com/photo-1544022613-e87ca75a784a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8amFja2V0fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-        
          "price":"20.99",
          "category":"Clothes",
       },
       {
-         
          "title":"WOMEN'S SINGLE-TRACK SHOE",
          "productImage":"https://images.unsplash.com/photo-1604867896102-9993f537f22c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fHNob2V8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-        
-         "category":"Footwear Sports",
          "price":"99.99",
+         "category":"Footwear Sports",
       },
       {
-         
          "title":"Enduro Boa, Hydration Pack",
          "productImage":"https://images.unsplash.com/photo-1536353479245-bf1902dd0d53?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTd8fGh5ZHJhdGlvbiUyMHBhY2t8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-         
          "price":"39.99",
          "category":"Sports",
       },
-      
-      
       {
-         
          "title":"Microwave",
          "productImage":"https://images.unsplash.com/photo-1557944935-506efb8ba41d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzB8fG1pY3Jvd2F2ZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-        
          "price":"49.99",
          "category":"Appliances",
       },
       {
-         
          "title":"Microwave",
          "productImage":"https://images.unsplash.com/photo-1557944935-506efb8ba41d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzB8fG1pY3Jvd2F2ZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-         
          "price":"49.99",
          "category":"Appliances",
       },
-      
       {
-         
          "title":"Your Heart is the Sea",
          "productImage":"https://images.unsplash.com/photo-1555252586-d77e8c828e41?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8bm92ZWx8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-         
          "price":"19.99",
          "category":"Books",
       },
       {
-         
          "title":"Kisaan Mazdoor Ekta Zindabaad by Jatt Mehkma",
          "productImage":"https://images.unsplash.com/photo-1547760916-b23a6eb6014d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fG5vdmVsfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-         
          "price":"49.99",
          "category":"Books",
       }
