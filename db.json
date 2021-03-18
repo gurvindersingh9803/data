@@ -43,6 +43,83 @@
          "price":"39.99",
          "category":"Sports",
          "product-cta-text":"Shop Now"
+      },
+       {
+         
+         "title":"Mens Khaki Pants",
+         "productImage":"https://images.unsplash.com/photo-1580764194528-6a4158e3dab0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8a2hha2klMjBwYW50c3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
+         "price":"29.99",
+         "category":"Clothes",
+         "product-cta-text":"Shop Now"
+      },
+      {
+         
+         "title":"Women White Top",
+         "productImage":"https://images.unsplash.com/photo-1506795660198-e95c77602129?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8d2hpdGUlMjB0b3B8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
+         "price":"19.99",
+         "category":"Clothes",
+         "product-cta-text":"Shop Now"
+      },
+      {
+         
+         "title":"Microwave",
+         "productImage":"https://images.unsplash.com/photo-1557944935-506efb8ba41d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzB8fG1pY3Jvd2F2ZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
+         "price":"49.99",
+         "category":"Appliances",
+         "product-cta-text":"Shop Now"
+      },
+      {
+         
+         "title":"Microwave",
+         "productImage":"https://images.unsplash.com/photo-1557944935-506efb8ba41d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzB8fG1pY3Jvd2F2ZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
+         "price":"49.99",
+         "category":"Appliances",
+         "product-cta-text":"Shop Now"
+      },
+      {
+         
+         "title":"Nike running shoes",
+         "productImage":"https://images.unsplash.com/photo-1582588678413-dbf45f4823e9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGxlYnJvbiUyMG5pa2V8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
+         "price":"89.99",
+         "category":"Sports Footwear",
+         "product-cta-text":"Shop Now"
+      },
+      {
+         
+         "title":"Your Heart is the Sea",
+         "productImage":"https://images.unsplash.com/photo-1555252586-d77e8c828e41?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8bm92ZWx8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
+         "price":"19.99",
+         "category":"Books",
+         "product-cta-text":"Shop Now"
+      },
+      {
+         
+         "title":"Kisaan Mazdoor Ekta Zindabaad by Jatt Mehkma",
+         "productImage":"https://images.unsplash.com/photo-1547760916-b23a6eb6014d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fG5vdmVsfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+         "header-top-right-text":"Shop All",
+         "header-top-left-text":"Equipment",
+         "product-url":"http://www.thenorthface.com/catalog/sc-gear/enduro-boa.html",
+         "price":"49.99",
+         "category":"Books",
+         "product-cta-text":"Shop Now"
       }
    ],
    "WI":[
